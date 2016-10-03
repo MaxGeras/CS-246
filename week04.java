@@ -3,7 +3,7 @@ class HelloWorld{
 
 	public static void main(String[] args) {	
 		  
-		System.out.println("\tHello World!");
+		System.out.println("\tHello GitHub World!");
 		
 	}
 }
