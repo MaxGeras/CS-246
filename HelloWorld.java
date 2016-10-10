@@ -2,7 +2,7 @@ class HelloWorld{
 
 	public static void main(String[] args) {	
 
-		System.out.println("\tWE are wrorking...");
+		System.out.println("\tTest...");
 
 	}
 }
